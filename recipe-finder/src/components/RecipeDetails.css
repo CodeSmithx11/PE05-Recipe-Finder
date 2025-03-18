@@ -1,0 +1,13 @@
+/* client/src/components/RecipeDetails.css */
+
+.recipe-details {
+    margin-top: 20px;
+  }
+  
+  .recipe-details p {
+    margin-bottom: 10px;
+  }
+  
+  .recipe-details button {
+    margin-right: 10px;
+  }
